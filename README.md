@@ -4,7 +4,7 @@ The book:
 | GFreya' R for Statistics Book |
 | -------------------------- | 
 | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/Cover.png" width="83%"> | 
-| <a href="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/DianFreya%20Math%20Physics%20Simulator.pdf">Click</a> | 
+| <a href="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/GFreya%20R%20for%20Statistics.pdf">Click</a> | 
 
 
 # Status
