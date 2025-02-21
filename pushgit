@@ -1,0 +1,5 @@
+git add .
+git commit -m "un.. deux.. trois.."
+git branch -M main
+git remote add origin https://github.com/glanzkaiser/GFreya-R-for-Statistics.git
+git push -u origin main
