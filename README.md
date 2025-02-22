@@ -16,7 +16,7 @@ The book:
 | Status | Name | Details |
 | -------------     | ------------- | ------------- | 
 |:sunflower:   | Introduction and Installation        | Done
-|:writing_hand:| Data Visualization 		      | Scatter Plot
+|:writing_hand:| Data Visualization 		      | Scatter Plot, Bar Chart, Tree Map, Kernel Density Plot, Histogram
 |:writing_hand:| Classical Tests 		      | Not yet
 |:writing_hand:| Statistical Modelling 		      | Not yet
 |:writing_hand:| Regression	 		      | Not yet
