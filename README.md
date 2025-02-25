@@ -56,3 +56,4 @@ For anyone who wants to learn rigorously to be an enginner or inventor
 
 <a href="https://drive.google.com/file/d/1rfln43HpLbeVyGRvC7SeDWg1H4AHBuil/view?usp=sharing">USA Crimes CSV</a>
 
+<a href="https://drive.google.com/file/d/1uVcRD6mkj2z5OFUaAHoINTjWcLzCKbxW/view?usp=sharing">Traffic Accidents CSV</a>
