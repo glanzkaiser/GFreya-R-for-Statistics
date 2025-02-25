@@ -1,0 +1,12 @@
+library(dplyr)
+library(ggplot2)
+library(scales)
+library(stringr)
+library(ggrepel)
+library(lubridate)
+library(ggthemes)
+library(RColorBrewer)
+library(data.table)
+
+df <- fread("/root/R/CSV/traffic_accidents.csv")
+summary(df)

@@ -17,6 +17,8 @@ The book:
 | -------------     | ------------- | ------------- | 
 |:sunflower:   | Introduction and Installation        | Done
 |:writing_hand:| Data Visualization 		      | Scatter Plot, Bar Chart, Tree Map, Kernel Density Plot, Histogram
+|:writing_hand:| Correlation for Categorical Variables| Tetrachoric test
+|:writing_hand:| Correlation for Numerical Variables  | Not yet
 |:writing_hand:| Classical Tests 		      | Not yet
 |:writing_hand:| Statistical Modelling 		      | Not yet
 |:writing_hand:| Regression	 		      | Not yet
@@ -31,6 +33,15 @@ The book:
 |:writing_hand:| Spatial Statistics		      | Not yet
 |:writing_hand:| Survival Analysis		      | Not yet
 
+# R Visualization Examples
+
+| Name | Visualization |
+| -------------     | ------------- | 
+| Bar chart for USA Crimes, Race of Perpetrator   | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/9-1.png" width="83%">
+| Histogram for USA Crimes, Age of Perpetrator   | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/9-6.png" width="83%">
+| Histogram for USA Crimes, Age of Victim   | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/9-5.png" width="83%">
+| Heatmap for Car Accidents  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/7-6.png" width="83%">
+
 # To Clone the repository
 Go to a directory specified to learn this, then open terminal / xterm and type:
 ```
@@ -42,4 +53,6 @@ git clone https://github.com/glanzkaiser/GFreya-R-for-Statistics.git
 For anyone who wants to learn rigorously to be an enginner or inventor
 
 <a href="https://drive.google.com/drive/folders/1-5FqCOD3JDRJtXud-lHg9p2YU1ZoupyH?usp=sharing">A lot of R Books</a>
+
+<a href="https://drive.google.com/file/d/1rfln43HpLbeVyGRvC7SeDWg1H4AHBuil/view?usp=sharing">USA Crimes CSV</a>
 
