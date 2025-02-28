@@ -1,9 +1,6 @@
-library(readxl)
-library(GGally)
-library(corrplot)
-library(ggcorrplot)
-library(car)
-library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(data.table) #for fread
 
 df <- fread("/root/R/CSV/usa_crimes.csv")
 summary(df)

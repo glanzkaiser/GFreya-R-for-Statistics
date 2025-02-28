@@ -1,5 +1,8 @@
 library(dplyr)
 library(ggplot2)
+library(data.table) #for fread
+library(stringr)
+library(scales)
 
 df <- fread("/root/R/CSV/usa_crimes.csv")
 summary(df)

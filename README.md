@@ -17,8 +17,10 @@ The book:
 | -------------     | ------------- | ------------- | 
 |:sunflower:   | Introduction and Installation        | Done
 |:writing_hand:| Data Visualization 		      | Scatter Plot, Bar Chart, Tree Map, Kernel Density Plot, Histogram
-|:writing_hand:| Correlation for Categorical Variables| Tetrachoric test
+|:sunflower:   | Correlation for Categorical Variables| Done
 |:writing_hand:| Correlation for Numerical Variables  | Not yet
+|:writing_hand:| Probability	 		      | R codes for conditional probability and Bayes' rule
+|:writing_hand:| Random Variable		      | pmf and discrete cdf done, next continuous pdf and cdf
 |:writing_hand:| Classical Tests 		      | Not yet
 |:writing_hand:| Statistical Modelling 		      | Not yet
 |:writing_hand:| Regression	 		      | Not yet
@@ -41,6 +43,8 @@ The book:
 | Histogram for USA Crimes, Age of Perpetrator   | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/9-6.png" width="83%">
 | Histogram for USA Crimes, Age of Victim   | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/9-5.png" width="83%">
 | Heatmap for Car Accidents  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/7-6.png" width="83%">
+| Probability mass function  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-4.png" width="83%">
+| Discrete cdf  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-3.png" width="83%">
 
 # To Clone the repository
 Go to a directory specified to learn this, then open terminal / xterm and type:
