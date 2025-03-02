@@ -16,10 +16,10 @@ The book:
 | Status | Name | Details |
 | -------------     | ------------- | ------------- | 
 |:sunflower:   | Introduction and Installation        | Done
-|:writing_hand:| Data Visualization 		      | Scatter Plot, Bar Chart, Tree Map, Kernel Density Plot, Histogram
+|:sunflower:   | Data Visualization 		      | Done
 |:sunflower:   | Correlation for Categorical Variables| Done
-|:writing_hand:| Correlation for Numerical Variables  | Not yet
-|:writing_hand:| Probability	 		      | R codes for conditional probability and Bayes' rule
+|:sunflower:   | Correlation for Numerical Variables  | Done
+|:sunflower:   | Probability	 		      | Done
 |:writing_hand:| Random Variable		      | pmf and discrete cdf done, next continuous pdf and cdf
 |:writing_hand:| Classical Tests 		      | Not yet
 |:writing_hand:| Statistical Modelling 		      | Not yet
@@ -42,6 +42,8 @@ The book:
 | Bar chart for USA Crimes, Race of Perpetrator   | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/9-1.png" width="83%">
 | Histogram for USA Crimes, Age of Perpetrator   | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/9-6.png" width="83%">
 | Histogram for USA Crimes, Age of Victim   | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/9-5.png" width="83%">
+| World Economic, Correlation Plot   | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/9-27.png" width="83%">
+| World Economic, Literacy and GDP  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/9-22.png" width="83%">
 | Heatmap for Car Accidents  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/7-6.png" width="83%">
 | Probability mass function  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-4.png" width="83%">
 | Discrete cdf  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-3.png" width="83%">
