@@ -20,12 +20,8 @@ The book:
 |:sunflower:   | Correlation for Categorical Variables| Done
 |:sunflower:   | Correlation for Numerical Variables  | Done
 |:sunflower:   | Probability	 		      | Done
-|:writing_hand:| Random Variable		      | pmf and discrete cdf done, next continuous pdf and cdf
-|:writing_hand:| Classical Tests 		      | Not yet
+|:writing_hand:| Random Variable		      | normal done, next gamma exponential beta lognormal weibull
 |:writing_hand:| Statistical Modelling 		      | Not yet
-|:writing_hand:| Regression	 		      | Not yet
-|:writing_hand:| Analysis of Variance 		      | Not yet
-|:writing_hand:| Analysis of Covariance		      | Not yet
 |:writing_hand:| Generalized Linear Models	      | Not yet
 |:writing_hand:| Generalized Additive Models	      | Not yet
 |:writing_hand:| Non-linear Regression		      | Not yet
@@ -47,6 +43,7 @@ The book:
 | Heatmap for Car Accidents  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/7-6.png" width="83%">
 | Probability mass function  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-4.png" width="83%">
 | Discrete cdf  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-3.png" width="83%">
+| Normal pdf  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/13-3.png" width="83%">
 
 # To Clone the repository
 Go to a directory specified to learn this, then open terminal / xterm and type:

@@ -5,7 +5,8 @@ library('ggplot2')
 # between -15 to 15 with a difference of 0.1
 x = seq(-15, 15, by=0.1)
  
-y = dnorm(x, mean(x), sd(x))
+y = dnorm(x, mean=0, sd=5)
+#y = dnorm(x, mean(x), sd(x))
  
 # output to be present as PNG file
 png(file="dnormExample.png")
