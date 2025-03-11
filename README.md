@@ -20,7 +20,9 @@ The book:
 |:sunflower:   | Correlation for Categorical Variables| Done
 |:sunflower:   | Correlation for Numerical Variables  | Done
 |:sunflower:   | Probability	 		      | Done
-|:writing_hand:| Random Variable		      | normal done, next gamma exponential beta lognormal weibull
+|:sunflower:   | Random Variable 		      | Done
+|:sunflower:   | Discrete Probability Distribution    | Done
+|:writing_hand:| Continuous Probability Distribution  | next chi-squared beta lognormal weibull
 |:writing_hand:| Statistical Modelling 		      | Not yet
 |:writing_hand:| Generalized Linear Models	      | Not yet
 |:writing_hand:| Generalized Additive Models	      | Not yet
