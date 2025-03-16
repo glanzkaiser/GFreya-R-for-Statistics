@@ -1,0 +1,5 @@
+x <- seq(0, 50, by = .1)
+plot(pweibull(x, shape = 1, scale = 5), col = "blue", type = "l", xlab = "x", ylab = "y") 
+lines(pweibull(x, shape = 1, scale = 10), col = "red") 
+lines(pweibull(x, shape = 1, scale = 20), col = "green") 
+legend(300, 0.6, legend=c("shape = 1, scale = 5", "shape = 1, scale = 10", "shape = 1, scale = 20"), col=c("blue", "red", "green"), lty=1, cex=1.2)
