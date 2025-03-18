@@ -22,7 +22,7 @@ The book:
 |:sunflower:   | Probability	 		      | Done
 |:sunflower:   | Random Variable 		      | Done
 |:sunflower:   | Discrete Probability Distribution    | Done
-|:writing_hand:| Continuous Probability Distribution  | next R codes 
+|:writing_hand:| Continuous Probability Distribution  | next R codes for Weibul, Erlang and Lognormal
 |:writing_hand:| Statistical Modelling 		      | Not yet
 |:writing_hand:| Generalized Linear Models	      | Not yet
 |:writing_hand:| Generalized Additive Models	      | Not yet
@@ -47,6 +47,8 @@ The book:
 | Discrete cdf  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-3.png" width="83%">
 | Normal pdf  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/13-3.png" width="83%">
 | QQ Plot  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-25.png" width="83%">
+| Maximum Likelihood Estimation for Beta Distribution  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/13-33.png" width="83%">
+| Time series plot for Corn yield  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/13-36.png" width="83%">
 
 # To Clone the repository
 Go to a directory specified to learn this, then open terminal / xterm and type:
