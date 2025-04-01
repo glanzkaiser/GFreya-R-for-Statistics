@@ -22,7 +22,8 @@ The book:
 |:sunflower:   | Probability	 		      | Done
 |:sunflower:   | Random Variable 		      | Done
 |:sunflower:   | Discrete Probability Distribution    | Done
-|:writing_hand:| Continuous Probability Distribution  | next R codes for Weibul, Erlang and Lognormal
+|:sunflower:   | Continuous Probability Distribution  | Done
+|:writing_hand:| Fundamental Sampling Distribution    | Central limit theorem
 |:writing_hand:| Statistical Modelling 		      | Not yet
 |:writing_hand:| Generalized Linear Models	      | Not yet
 |:writing_hand:| Generalized Additive Models	      | Not yet
@@ -46,6 +47,7 @@ The book:
 | Probability mass function  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-4.png" width="83%">
 | Discrete cdf  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-3.png" width="83%">
 | Normal pdf  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/13-3.png" width="83%">
+| Chi-squared pdf  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/14-12.png" width="83%">
 | QQ Plot  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/11-25.png" width="83%">
 | Maximum Likelihood Estimation for Beta Distribution  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/13-33.png" width="83%">
 | Time series plot for Corn yield  | <img src="https://github.com/glanzkaiser/GFreya-R-for-Statistics/blob/main/images/13-36.png" width="83%">
